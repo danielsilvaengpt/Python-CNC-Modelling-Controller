@@ -4,7 +4,7 @@
 *Projeto desenvolvido durante estágio curricular na Optima (Grupo Tecmacal).*
 
 ## 📖 Sobre o Projeto
-Este software foi criado para resolver o problema de controlar um braço robótico/máquina CNC para esculpir moldes 3D. O desafio principal foi traduzir coordenadas virtuais (modelos 3D) em movimentos mecânicos precisos.
+Este software foi criado para resolver o problema de controlar uma máquina CNC para esculpir moldes 3D através de pinos. O desafio principal foi traduzir coordenadas virtuais (modelos 3D) em movimentos mecânicos precisos.
 
 ## 🧠 Desafios Técnicos & Soluções (A Lógica)
 * **Cálculos Matemáticos:** Implementação de algoritmos de **Trigonometria** e **Distância Euclidiana** para calcular a trajetória exata da ferramenta de corte.
